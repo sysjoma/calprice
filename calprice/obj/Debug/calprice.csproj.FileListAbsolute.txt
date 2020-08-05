@@ -1,0 +1,10 @@
+c:\users\mysys3\documents\visual studio 2015\Projects\calprice\calprice\bin\Debug\calprice.exe.config
+c:\users\mysys3\documents\visual studio 2015\Projects\calprice\calprice\bin\Debug\calprice.exe
+c:\users\mysys3\documents\visual studio 2015\Projects\calprice\calprice\bin\Debug\calprice.pdb
+c:\users\mysys3\documents\visual studio 2015\Projects\calprice\calprice\obj\Debug\calprice.csprojResolveAssemblyReference.cache
+c:\users\mysys3\documents\visual studio 2015\Projects\calprice\calprice\obj\Debug\calprice.MainForm.resources
+c:\users\mysys3\documents\visual studio 2015\Projects\calprice\calprice\obj\Debug\calprice.Properties.Resources.resources
+c:\users\mysys3\documents\visual studio 2015\Projects\calprice\calprice\obj\Debug\calprice.csproj.GenerateResource.Cache
+c:\users\mysys3\documents\visual studio 2015\Projects\calprice\calprice\obj\Debug\calprice.exe
+c:\users\mysys3\documents\visual studio 2015\Projects\calprice\calprice\obj\Debug\calprice.pdb
+C:\Users\mysys3\documents\visual studio 2015\Projects\calprice\calprice\bin\Debug\DocumentFormat.OpenXml.dll
